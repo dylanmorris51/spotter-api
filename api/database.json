@@ -46,7 +46,24 @@
     "workouts": [],
     "workoutVideos": [],
     "workoutUserVideos": [],
-    "exerciseType": [],
+    "exerciseType": [
+        {
+            "id": 1,
+            "type": "stretch & mobility"
+        },
+        {
+            "id": 2,
+            "type": "core"
+        },
+        {
+            "id": 3,
+            "type": "lower body"
+        },
+        {
+            "id": 4,
+            "type": "upper body"
+        }
+    ],
     "painType": [
         {
             "id": 1,
