@@ -48,7 +48,26 @@
     "workoutUserVideos": [],
     "exerciseType": [],
     "painType": [
-        
+        {
+            "id": 1,
+            "type": "hip"
+        },
+        {
+            "id": 2,
+            "type": "shoulder"
+        },
+        {
+            "id": 3,
+            "type": "back"
+        },
+        {
+            "id": 4,
+            "type": "leg"
+        },
+        {
+            "id": 5,
+            "type": "ankle"
+        }
     ],
     "userVideos": [],
     "collections": [],
