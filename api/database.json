@@ -195,7 +195,7 @@
             "painTypeId": 3
         }
     ],
-    "exerciseType": [
+    "exerciseTypes": [
         {
             "id": 1,
             "type": "Stretching & Mobility"
@@ -213,7 +213,7 @@
             "type": "Upper Body"
         }
     ],
-    "painType": [
+    "painTypes": [
         {
             "id": 1,
             "type": "Hip"
