@@ -1,32 +1,56 @@
 {
     "users": [
-        
+        {
+            "email": "spotterfan11@gym.com",
+            "name": "Blake Obrien",
+            "id": 1
+        }
     ],
     "videos": [
-
+        {
+            "id": 1,
+            "name": "",
+            "exerciseTypeId": ,
+            "video": "",
+            "painType": ""
+        },
+        {
+            "id": 1,
+            "name": "",
+            "exerciseTypeId": ,
+            "video": "",
+            "painType": ""
+        },
+        {
+            "id": 1,
+            "name": "",
+            "exerciseTypeId": ,
+            "video": "",
+            "painType": ""
+        },
+        {
+            "id": 1,
+            "name": "",
+            "exerciseTypeId": ,
+            "video": "",
+            "painType": ""
+        },
+        {
+            "id": 1,
+            "name": "",
+            "exerciseTypeId": ,
+            "video": "",
+            "painType": ""
+        }
     ],
-    "workouts": [
-
-    ],
-    "workoutVideos": [
-
-    ],
-    "workoutUserVideos": [
-
-    ],
-    "exerciseType": [
-
-    ],
+    "workouts": [],
+    "workoutVideos": [],
+    "workoutUserVideos": [],
+    "exerciseType": [],
     "painType": [
-
+        
     ],
-    "userVideos": [
-
-    ],
-    "collections": [
-
-    ],
-    "collectionsWorkouts": [
-
-    ]
+    "userVideos": [],
+    "collections": [],
+    "collectionsWorkouts": []
 }
