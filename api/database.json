@@ -53,13 +53,6 @@
             "id": 7,
             "name": "Band-Resisted Dumbbell Romanian Dead Lift",
             "exerciseTypeId": 3,
-            "video": "https://www.youtube.com/watch?v=cog2LjirMU8&list=PLrZ3VzQSEqzHzNC_s34H4RpEGOZdlfAis&index=6",
-            "painType": 4
-        },
-        {
-            "id": 7,
-            "name": "Band-Resisted Dumbbell Romanian Dead Lift",
-            "exerciseTypeId": 3,
             "video": "https://www.youtube.com/watch?v=-PnEYcMU4gw&list=PLrZ3VzQSEqzHzNC_s34H4RpEGOZdlfAis&index=7",
             "painType": 4
         },
