@@ -132,56 +132,49 @@
             "painTypeId": 3
         },
         {
-            "id": 17,
+            "id": 18,
             "name": "3-Way Band Pull-Apart",
             "exerciseTypeId": 1,
             "link": "https://www.youtube.com/watch?v=tcOpf1MMfxQ&list=PLrZ3VzQSEqzH_RFkFxV1ekXegIOObzMhS&index=8",
             "painTypeId": 2
         },
         {
-            "id": 18,
+            "id": 19,
             "name": "Half-Kneeling Landmine Shoulder Press",
             "exerciseTypeId": 4,
             "link": "https://www.youtube.com/watch?v=_ArzG9qz-yM&list=PLrZ3VzQSEqzH_RFkFxV1ekXegIOObzMhS&index=9",
             "painTypeId": 3
         },
         {
-            "id": 19,
+            "id": 20,
             "name": "Assisted Pull-Ups",
             "exerciseTypeId": 4,
             "link": "https://www.youtube.com/watch?v=swkOeoEcKW0&list=PLrZ3VzQSEqzH_RFkFxV1ekXegIOObzMhS&index=10",
             "painTypeId": 2
         },
         {
-            "id": 20,
+            "id": 21,
             "name": "How To Do The Perfect Push Up",
             "exerciseTypeId": 4,
             "link": "https://www.youtube.com/watch?v=smwbpccnADo&list=PLrZ3VzQSEqzH_RFkFxV1ekXegIOObzMhS&index=11",
             "painTypeId": 3
         },
         {
-            "id": 21,
+            "id": 22,
             "name": "Low Cable Row",
             "exerciseTypeId": 4,
             "link": "https://www.youtube.com/watch?v=AYSD6Z2Jevg&list=PLrZ3VzQSEqzH_RFkFxV1ekXegIOObzMhS&index=12",
             "painTypeId": 3
         },
         {
-            "id": 22,
+            "id": 23,
             "name": "Kettlebell Shoulder Press",
             "exerciseTypeId": 4,
             "link": "https://www.youtube.com/watch?v=WTmR-Qr32dg&list=PLrZ3VzQSEqzH_RFkFxV1ekXegIOObzMhS&index=13",
             "painTypeId": 2
         },
         {
-            "id": 23,
-            "name": "Suspended Cable Face Pull With External Rotation",
-            "exerciseTypeId": 4,
-            "link": "https://www.youtube.com/watch?v=HLrmqQf0oIA&list=PLrZ3VzQSEqzH_RFkFxV1ekXegIOObzMhS&index=15",
-            "painTypeId": 2
-        },
-        {
-            "id": 24,
+            "id": 25,
             "name": "Standing Cable Face Pull With External Rotation",
             "exerciseTypeId": 4,
             "link": "https://www.youtube.com/watch?v=nSiIYndTlO4&list=PLrZ3VzQSEqzH_RFkFxV1ekXegIOObzMhS&index=16",
