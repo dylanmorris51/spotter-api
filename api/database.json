@@ -9,38 +9,80 @@
     "videos": [
         {
             "id": 1,
-            "name": "",
-            "exerciseTypeId": ,
-            "video": "",
-            "painType": ""
+            "name": "Adductor Release and Stretch",
+            "exerciseTypeId": 1,
+            "video": "https://www.youtube.com/watch?v=J_X8OlxlQek&list=PLrZ3VzQSEqzHzNC_s34H4RpEGOZdlfAis&index=1&t=81s",
+            "painType": 4
         },
         {
-            "id": 1,
-            "name": "",
-            "exerciseTypeId": ,
-            "video": "",
-            "painType": ""
+            "id": 2,
+            "name": "How To Set the Hip",
+            "exerciseTypeId": 1,
+            "video": "https://www.youtube.com/watch?v=mJ9oYLxvco4&list=PLrZ3VzQSEqzHzNC_s34H4RpEGOZdlfAis&index=2",
+            "painType": 1
         },
         {
-            "id": 1,
-            "name": "",
-            "exerciseTypeId": ,
-            "video": "",
-            "painType": ""
+            "id": 3,
+            "name": "Foot and Ankle Mobility",
+            "exerciseTypeId": 1,
+            "video": "https://www.youtube.com/watch?v=aAqCKJmYCZ0&list=PLrZ3VzQSEqzHzNC_s34H4RpEGOZdlfAis&index=3",
+            "painType": 5
         },
         {
-            "id": 1,
-            "name": "",
-            "exerciseTypeId": ,
-            "video": "",
-            "painType": ""
+            "id": 4,
+            "name": "Groin & Glutes Mobility",
+            "exerciseTypeId": 1,
+            "video": "https://www.youtube.com/watch?v=kPZFeAMEjjs&list=PLrZ3VzQSEqzHzNC_s34H4RpEGOZdlfAis&index=4",
+            "painType": 1
         },
         {
-            "id": 1,
-            "name": "",
-            "exerciseTypeId": ,
-            "video": "",
-            "painType": ""
+            "id": 5,
+            "name": "Clam Openers With Hold",
+            "exerciseTypeId": 3,
+            "video": "https://www.youtube.com/watch?v=JD83shiYzDQ&list=PLrZ3VzQSEqzHzNC_s34H4RpEGOZdlfAis&index=5",
+            "painType": 4
+        },
+        {
+            "id": 6,
+            "name": "VMO Activation (Vastus Medialis Oblique)",
+            "exerciseTypeId": 3,
+            "video": "https://www.youtube.com/watch?v=cog2LjirMU8&list=PLrZ3VzQSEqzHzNC_s34H4RpEGOZdlfAis&index=6",
+            "painType": 4
+        },
+        {
+            "id": 7,
+            "name": "Band-Resisted Dumbbell Romanian Dead Lift",
+            "exerciseTypeId": 3,
+            "video": "https://www.youtube.com/watch?v=cog2LjirMU8&list=PLrZ3VzQSEqzHzNC_s34H4RpEGOZdlfAis&index=6",
+            "painType": 4
+        },
+        {
+            "id": 7,
+            "name": "Band-Resisted Dumbbell Romanian Dead Lift",
+            "exerciseTypeId": 3,
+            "video": "https://www.youtube.com/watch?v=-PnEYcMU4gw&list=PLrZ3VzQSEqzHzNC_s34H4RpEGOZdlfAis&index=7",
+            "painType": 4
+        },
+        {
+            "id": 8,
+            "name": "Goblet Squat",
+            "exerciseTypeId": 3,
+            "video": "https://www.youtube.com/watch?v=MeIiIdhvXT4&list=PLrZ3VzQSEqzHzNC_s34H4RpEGOZdlfAis&index=8",
+            "painType": 1
+        },
+        {
+            "id": 9,
+            "name": "Step Ups",
+            "exerciseTypeId": 3,
+            "video": "https://www.youtube.com/watch?v=vLgNjXucUs0&list=PLrZ3VzQSEqzHzNC_s34H4RpEGOZdlfAis&index=9",
+            "painType": 4
+        },
+        {
+            "id": 10,
+            "name": "Trap-Bar Deadlift",
+            "exerciseTypeId": 3,
+            "video": "https://www.youtube.com/watch?v=5bMvk8gK25s&list=PLrZ3VzQSEqzHzNC_s34H4RpEGOZdlfAis&index=10",
+            "painType": 4
         }
     ],
     "workouts": [],
@@ -49,41 +91,41 @@
     "exerciseType": [
         {
             "id": 1,
-            "type": "stretch & mobility"
+            "type": "Stretching & Mobility"
         },
         {
             "id": 2,
-            "type": "core"
+            "type": "Core"
         },
         {
             "id": 3,
-            "type": "lower body"
+            "type": "Lower Body"
         },
         {
             "id": 4,
-            "type": "upper body"
+            "type": "Upper Body"
         }
     ],
     "painType": [
         {
             "id": 1,
-            "type": "hip"
+            "type": "Hip"
         },
         {
             "id": 2,
-            "type": "shoulder"
+            "type": "Shoulder"
         },
         {
             "id": 3,
-            "type": "back"
+            "type": "Back"
         },
         {
             "id": 4,
-            "type": "leg"
+            "type": "Leg"
         },
         {
             "id": 5,
-            "type": "ankle"
+            "type": "Foot & Ankle"
         }
     ],
     "userVideos": [],
