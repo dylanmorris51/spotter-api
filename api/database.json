@@ -1,9 +1,14 @@
 {
     "users": [
         {
-            "email": "spotterfan11@gym.com",
+            "email": "spottercrusher@gym.com",
             "name": "Blake Obrien",
             "id": 1
+        },
+        {
+            "email": "spotterfan11@gym.com",
+            "name": "Carly Applegate",
+            "id": 2
         }
     ],
     "videos": [
@@ -190,9 +195,6 @@
             "painType": 3
         }
     ],
-    "workouts": [],
-    "workoutVideos": [],
-    "workoutUserVideos": [],
     "exerciseType": [
         {
             "id": 1,
@@ -233,6 +235,9 @@
             "type": "Foot & Ankle"
         }
     ],
+    "workouts": [],
+    "workoutVideos": [],
+    "workoutUserVideos": [],
     "userVideos": [],
     "collections": [],
     "collectionsWorkouts": []
