@@ -73,7 +73,7 @@
             "link": "https://www.youtube.com/watch?v=-PnEYcMU4gw&list=PLrZ3VzQSEqzHzNC_s34H4RpEGOZdlfAis&index=7",
             "painTypeId": 4,
             "embed": "-PnEYcMU4gw",
-            "img": "../images/adductor.jpg"
+            "img": "https://i.imgur.com/rjrMwv4.jpg"
         },
         {
             "id": 8,
@@ -82,7 +82,7 @@
             "link": "https://www.youtube.com/watch?v=MeIiIdhvXT4&list=PLrZ3VzQSEqzHzNC_s34H4RpEGOZdlfAis&index=8",
             "painTypeId": 1,
             "embed": "MeIiIdhvXT4",
-            "img": "../images/adductor.jpg"
+            "img": "https://i.imgur.com/RDgoU3L.jpg"
         },
         {
             "id": 9,
@@ -91,7 +91,7 @@
             "link": "https://www.youtube.com/watch?v=vLgNjXucUs0&list=PLrZ3VzQSEqzHzNC_s34H4RpEGOZdlfAis&index=9",
             "painTypeId": 4,
             "embed": "vLgNjXucUs0",
-            "img": "../images/adductor.jpg"
+            "img": "https://i.imgur.com/l1GnnR6.jpg"
         },
         {
             "id": 10,
@@ -100,7 +100,7 @@
             "link": "https://www.youtube.com/watch?v=5bMvk8gK25s&list=PLrZ3VzQSEqzHzNC_s34H4RpEGOZdlfAis&index=10",
             "painTypeId": 4,
             "embed": "5bMvk8gK25s",
-            "img": "../images/adductor.jpg"
+            "img": "https://i.imgur.com/u2ANeft.jpg"
         },
         {
             "id": 11,
@@ -235,7 +235,7 @@
             "link": "https://www.youtube.com/watch?v=PpiqWNY52M0&list=PLrZ3VzQSEqzHzNC_s34H4RpEGOZdlfAis&index=12",
             "painTypeId": 3,
             "embed": "5bMvk8gK25s",
-            "img": "../images/adductor.jpg"
+            "img": "https://i.imgur.com/HW1hHq5.jpg"
             
         }
     ],
