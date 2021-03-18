@@ -288,5 +288,6 @@
   "workoutUserVideos": [],
   "userVideos": [],
   "collections": [],
-  "collectionsWorkouts": []
+  "collectionsWorkouts": [],
+  "planners": []
 }
