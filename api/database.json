@@ -283,7 +283,13 @@
       "type": "Foot & Ankle"
     }
   ],
-  "workouts": [],
+  "workouts": [
+    {
+      "id": 1,
+      "name": "Core Shredder",
+      "userId": 2
+    }
+  ],
   "workoutVideos": [],
   "workoutUserVideos": [],
   "userVideos": [],
