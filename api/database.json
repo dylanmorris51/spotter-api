@@ -288,6 +288,11 @@
       "id": 1,
       "name": "Core Shredder",
       "userId": 2
+    },
+    {
+      "name": "Never Skip Leg Day",
+      "userId": 2,
+      "id": 2
     }
   ],
   "workoutVideos": [],
