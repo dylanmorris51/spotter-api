@@ -27,6 +27,15 @@
       "img": "https://i.imgur.com/aKVi4Xm.jpg"
     },
     {
+      "id": 2,
+      "name": "How To Set the Hip",
+      "exerciseTypeId": 1,
+      "link": "https://www.youtube.com/watch?v=mJ9oYLxvco4&list=PLrZ3VzQSEqzHzNC_s34H4RpEGOZdlfAis&index=2",
+      "painTypeId": 1,
+      "embed": "mJ9oYLxvco4",
+      "img": "https://i.imgur.com/XF3gtxW.jpg"
+    },
+    {
       "id": 3,
       "name": "Foot and Ankle Mobility",
       "exerciseTypeId": 1,
