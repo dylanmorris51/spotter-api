@@ -27,13 +27,8 @@
       "img": "https://i.imgur.com/aKVi4Xm.jpg"
     },
     {
-      "id": 2,
-      "name": "How To Set the Hip",
-      "exerciseTypeId": 1,
-      "link": "https://www.youtube.com/watch?v=mJ9oYLxvco4&list=PLrZ3VzQSEqzHzNC_s34H4RpEGOZdlfAis&index=2",
-      "painTypeId": 1,
-      "embed": "mJ9oYLxvco4",
-      "img": "https://i.imgur.com/XF3gtxW.jpg"
+      "name": "Never Skip Leg Day Twice",
+      "id": 2
     },
     {
       "id": 3,
@@ -285,17 +280,28 @@
   ],
   "workouts": [
     {
-      "id": 1,
       "name": "Core Shredder",
-      "userId": 2
+      "userId": 2,
+      "id": 1
     },
     {
       "name": "Never Skip Leg Day",
       "userId": 2,
       "id": 2
+    },
+    {
+      "name": "Stretch Sesh",
+      "userId": 2,
+      "id": 3
     }
   ],
-  "workoutVideos": [],
+  "workoutVideos": [
+    {
+      "workoutId": 1,
+      "videoId": 16,
+      "id": 1
+    }
+  ],
   "workoutUserVideos": [],
   "userVideos": [],
   "collections": [],
