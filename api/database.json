@@ -290,9 +290,9 @@
       "id": 1
     },
     {
+      "id": 2,
       "name": "Never Skip Leg Day",
-      "userId": 2,
-      "id": 2
+      "userId": 2
     },
     {
       "name": "Stretch Sesh",
@@ -325,6 +325,31 @@
       "workoutId": 1,
       "videoId": 14,
       "id": 5
+    },
+    {
+      "workoutId": 2,
+      "videoId": 8,
+      "id": 6
+    },
+    {
+      "workoutId": 2,
+      "videoId": 5,
+      "id": 7
+    },
+    {
+      "workoutId": 2,
+      "videoId": 6,
+      "id": 9
+    },
+    {
+      "workoutId": 1,
+      "videoId": 15,
+      "id": 10
+    },
+    {
+      "workoutId": 3,
+      "videoId": 11,
+      "id": 11
     }
   ],
   "workoutUserVideos": [],
