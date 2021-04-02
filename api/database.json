@@ -14,6 +14,16 @@
       "email": "spotterrawks@gym.com",
       "name": "Josh Richardson",
       "id": 3
+    },
+    {
+      "email": "aja@aja.com",
+      "name": "Aja Dubbs",
+      "id": 4
+    },
+    {
+      "email": "jisie@woohoo.com",
+      "name": "Jisie David",
+      "id": 5
     }
   ],
   "videos": [
@@ -298,6 +308,11 @@
       "name": "Stretch Sesh",
       "userId": 2,
       "id": 3
+    },
+    {
+      "name": "Demo Day",
+      "userId": 2,
+      "id": 4
     }
   ],
   "workoutVideos": [
@@ -315,11 +330,6 @@
       "workoutId": 1,
       "videoId": 12,
       "id": 3
-    },
-    {
-      "workoutId": 2,
-      "videoId": 4,
-      "id": 4
     },
     {
       "workoutId": 1,
@@ -350,11 +360,97 @@
       "workoutId": 3,
       "videoId": 11,
       "id": 11
+    },
+    {
+      "workoutId": 2,
+      "videoId": 2,
+      "id": 12
+    },
+    {
+      "workoutId": 2,
+      "videoId": 1,
+      "id": 13
+    },
+    {
+      "workoutId": 2,
+      "videoId": 9,
+      "id": 14
+    },
+    {
+      "workoutId": 4,
+      "videoId": 11,
+      "id": 15
     }
   ],
   "workoutUserVideos": [],
   "userVideos": [],
   "collections": [],
   "collectionsWorkouts": [],
-  "planners": []
+  "days": [
+    {
+      "name": "Sunday",
+      "id": 1
+    },
+    {
+      "name": "Monday",
+      "id": 2
+    },
+    {
+      "name": "Tuesday",
+      "id": 3
+    },
+    {
+      "name": "Wednesday",
+      "id": 4
+    },
+    {
+      "name": "Thursday",
+      "id": 5
+    },
+    {
+      "name": "Friday",
+      "id": 6
+    },
+    {
+      "name": "Saturday",
+      "id": 7
+    }
+  ],
+  "planners": [
+    {
+      "id": 1,
+      "dayId": 3,
+      "workoutId": 3
+    },
+    {
+      "dayId": 7,
+      "workoutId": 3,
+      "id": 2
+    },
+    {
+      "id": 3,
+      "dayId": 5,
+      "workoutId": 2
+    },
+    {
+      "dayId": 1,
+      "workoutId": 3,
+      "id": 4
+    },
+    {
+      "dayId": 3,
+      "workoutId": 2,
+      "id": 6
+    },
+    {
+      "id": 7,
+      "dayId": 2,
+      "workoutId": 1
+    },
+    {
+      "id": 8,
+      "dayId": 6,
+      "workoutId": 1
+    }
+  ]
 }
