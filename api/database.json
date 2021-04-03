@@ -247,9 +247,9 @@
       "id": 26,
       "name": "Floor Press Bench Press",
       "exerciseTypeId": 4,
-      "link": "https://www.youtube.com/watch?v=PpiqWNY52M0&list=PLrZ3VzQSEqzHzNC_s34H4RpEGOZdlfAis&index=12",
+      "link": "https://www.youtube.com/watch?v=PpiqWNY52M0",
       "painTypeId": 3,
-      "embed": "5bMvk8gK25s",
+      "embed": "PpiqWNY52M0",
       "img": "https://i.imgur.com/HW1hHq5.jpg"
     }
   ],
@@ -380,6 +380,11 @@
       "workoutId": 4,
       "videoId": 11,
       "id": 15
+    },
+    {
+      "workoutId": 3,
+      "videoId": 18,
+      "id": 16
     }
   ],
   "workoutUserVideos": [],
