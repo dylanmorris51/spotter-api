@@ -301,18 +301,13 @@
     },
     {
       "id": 2,
-      "name": "Never Skip Leg Day",
+      "name": "Never Skip Leg Day Twice",
       "userId": 2
     },
     {
       "name": "Stretch Sesh",
       "userId": 2,
       "id": 3
-    },
-    {
-      "name": "Demo Day",
-      "userId": 2,
-      "id": 4
     }
   ],
   "workoutVideos": [
@@ -377,11 +372,6 @@
       "id": 14
     },
     {
-      "workoutId": 4,
-      "videoId": 11,
-      "id": 15
-    },
-    {
       "workoutId": 3,
       "videoId": 18,
       "id": 16
@@ -424,7 +414,7 @@
   "planners": [
     {
       "id": 1,
-      "dayId": 3,
+      "dayId": 4,
       "workoutId": 3
     },
     {
