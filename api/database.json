@@ -1,32 +1,451 @@
 {
-    "users": [
-        
-    ],
-    "videos": [
-
-    ],
-    "workouts": [
-
-    ],
-    "workoutVideos": [
-
-    ],
-    "workoutUserVideos": [
-
-    ],
-    "exerciseType": [
-
-    ],
-    "painType": [
-
-    ],
-    "userVideos": [
-
-    ],
-    "collections": [
-
-    ],
-    "collectionsWorkouts": [
-
-    ]
+  "users": [
+    {
+      "email": "spottercrusher@gym.com",
+      "name": "Blake Obrien",
+      "id": 1
+    },
+    {
+      "email": "spotterfan11@gym.com",
+      "name": "Carly Applegate",
+      "id": 2
+    },
+    {
+      "email": "spotterrawks@gym.com",
+      "name": "Josh Richardson",
+      "id": 3
+    },
+    {
+      "email": "aja@aja.com",
+      "name": "Aja Dubbs",
+      "id": 4
+    },
+    {
+      "email": "jisie@woohoo.com",
+      "name": "Jisie David",
+      "id": 5
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "name": "Adductor Release and Stretch",
+      "exerciseTypeId": 1,
+      "link": "https://www.youtube.com/watch?v=J_X8OlxlQek&list=PLrZ3VzQSEqzHzNC_s34H4RpEGOZdlfAis&index=1",
+      "painTypeId": 4,
+      "embed": "J_X8OlxlQek",
+      "img": "https://i.imgur.com/aKVi4Xm.jpg"
+    },
+    {
+      "id": 2,
+      "name": "How To Set the Hip",
+      "exerciseTypeId": 1,
+      "link": "https://www.youtube.com/watch?v=mJ9oYLxvco4&list=PLrZ3VzQSEqzHzNC_s34H4RpEGOZdlfAis&index=2",
+      "painTypeId": 1,
+      "embed": "mJ9oYLxvco4",
+      "img": "https://i.imgur.com/XF3gtxW.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Foot and Ankle Mobility",
+      "exerciseTypeId": 1,
+      "link": "https://www.youtube.com/watch?v=aAqCKJmYCZ0&list=PLrZ3VzQSEqzHzNC_s34H4RpEGOZdlfAis&index=3",
+      "painTypeId": 5,
+      "embed": "aAqCKJmYCZ0",
+      "img": "https://i.imgur.com/hGVjQfH.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Groin & Glutes Mobility",
+      "exerciseTypeId": 1,
+      "link": "https://www.youtube.com/watch?v=kPZFeAMEjjs&list=PLrZ3VzQSEqzHzNC_s34H4RpEGOZdlfAis&index=4",
+      "painTypeId": 1,
+      "embed": "kPZFeAMEjjs",
+      "img": "https://i.imgur.com/Bk2DPvs.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Clam Openers With Hold",
+      "exerciseTypeId": 3,
+      "link": "https://www.youtube.com/watch?v=JD83shiYzDQ&list=PLrZ3VzQSEqzHzNC_s34H4RpEGOZdlfAis&index=5",
+      "painTypeId": 4,
+      "embed": "JD83shiYzDQ",
+      "img": "https://i.imgur.com/f9WbcIS.jpg"
+    },
+    {
+      "id": 6,
+      "name": "VMO Activation (Vastus Medialis Oblique)",
+      "exerciseTypeId": 3,
+      "link": "https://www.youtube.com/watch?v=cog2LjirMU8&list=PLrZ3VzQSEqzHzNC_s34H4RpEGOZdlfAis&index=6",
+      "painTypeId": 4,
+      "embed": "cog2LjirMU8",
+      "img": "https://i.imgur.com/TxpldpR.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Band-Resisted Dumbbell Romanian Dead Lift",
+      "exerciseTypeId": 3,
+      "link": "https://www.youtube.com/watch?v=-PnEYcMU4gw&list=PLrZ3VzQSEqzHzNC_s34H4RpEGOZdlfAis&index=7",
+      "painTypeId": 4,
+      "embed": "-PnEYcMU4gw",
+      "img": "https://i.imgur.com/rjrMwv4.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Goblet Squat",
+      "exerciseTypeId": 3,
+      "link": "https://www.youtube.com/watch?v=MeIiIdhvXT4&list=PLrZ3VzQSEqzHzNC_s34H4RpEGOZdlfAis&index=8",
+      "painTypeId": 1,
+      "embed": "MeIiIdhvXT4",
+      "img": "https://i.imgur.com/RDgoU3L.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Step Ups",
+      "exerciseTypeId": 3,
+      "link": "https://www.youtube.com/watch?v=vLgNjXucUs0&list=PLrZ3VzQSEqzHzNC_s34H4RpEGOZdlfAis&index=9",
+      "painTypeId": 4,
+      "embed": "vLgNjXucUs0",
+      "img": "https://i.imgur.com/l1GnnR6.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Trap-Bar Deadlift",
+      "exerciseTypeId": 3,
+      "link": "https://www.youtube.com/watch?v=5bMvk8gK25s&list=PLrZ3VzQSEqzHzNC_s34H4RpEGOZdlfAis&index=10",
+      "painTypeId": 4,
+      "embed": "5bMvk8gK25s",
+      "img": "https://i.imgur.com/u2ANeft.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Ballistic Bands Mobility Stretch",
+      "exerciseTypeId": 1,
+      "link": "https://www.youtube.com/watch?v=ptma1ZCsWls&list=PLrZ3VzQSEqzH_RFkFxV1ekXegIOObzMhS&index=1",
+      "painTypeId": 4,
+      "embed": "ptma1ZCsWls",
+      "img": "https://i.imgur.com/Bm3LwFl.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Thoracic Spine Mobility",
+      "exerciseTypeId": 1,
+      "link": "https://www.youtube.com/watch?v=GlU_o5zWd8Q&list=PLrZ3VzQSEqzH_RFkFxV1ekXegIOObzMhS&index=2",
+      "painTypeId": 3,
+      "embed": "GlU_o5zWd8Q",
+      "img": "https://i.imgur.com/UXK8Po4.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Band Psoas Activation",
+      "exerciseTypeId": 2,
+      "link": "https://www.youtube.com/watch?v=zjm8Ru24u-s&list=PLrZ3VzQSEqzH_RFkFxV1ekXegIOObzMhS&index=3",
+      "painTypeId": 3,
+      "embed": "zjm8Ru24u-s",
+      "img": "https://i.imgur.com/OUa4ZC2.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Deadbug",
+      "exerciseTypeId": 2,
+      "link": "https://www.youtube.com/watch?v=UR_lWjVpfAM&list=PLrZ3VzQSEqzH_RFkFxV1ekXegIOObzMhS&index=4",
+      "painTypeId": 3,
+      "embed": "UR_lWjVpfAM",
+      "img": "https://i.imgur.com/evRU6NU.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Hipbridge",
+      "exerciseTypeId": 2,
+      "link": "https://www.youtube.com/watch?v=clxUyZECnL4&list=PLrZ3VzQSEqzH_RFkFxV1ekXegIOObzMhS&index=5",
+      "painTypeId": 3,
+      "embed": "clxUyZECnL4",
+      "img": "https://i.imgur.com/0RZLr9E.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Side-Plank Glute-Progression",
+      "exerciseTypeId": 2,
+      "link": "https://www.youtube.com/watch?v=pDwcjKH0VFo&list=PLrZ3VzQSEqzH_RFkFxV1ekXegIOObzMhS&index=6",
+      "painTypeId": 3,
+      "embed": "pDwcjKH0VFo",
+      "img": "https://i.imgur.com/QJKn488.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Bosu Glider Body Saw to Pike",
+      "exerciseTypeId": 2,
+      "link": "https://www.youtube.com/watch?v=yhwLy0og88U&list=PLrZ3VzQSEqzH_RFkFxV1ekXegIOObzMhS&index=7",
+      "painTypeId": 3,
+      "embed": "yhwLy0og88U",
+      "img": "https://i.imgur.com/e0O8gTQ.jpg"
+    },
+    {
+      "id": 18,
+      "name": "3-Way Band Pull-Apart",
+      "exerciseTypeId": 1,
+      "link": "https://www.youtube.com/watch?v=tcOpf1MMfxQ&list=PLrZ3VzQSEqzH_RFkFxV1ekXegIOObzMhS&index=8",
+      "painTypeId": 2,
+      "embed": "tcOpf1MMfxQ",
+      "img": "https://i.imgur.com/pOYCSh5.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Half-Kneeling Landmine Shoulder Press",
+      "exerciseTypeId": 4,
+      "link": "https://www.youtube.com/watch?v=_ArzG9qz-yM&list=PLrZ3VzQSEqzH_RFkFxV1ekXegIOObzMhS&index=9",
+      "painTypeId": 3,
+      "embed": "_ArzG9qz-yM",
+      "img": "https://i.imgur.com/RtmnkYE.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Assisted Pull-Ups",
+      "exerciseTypeId": 4,
+      "link": "https://www.youtube.com/watch?v=swkOeoEcKW0&list=PLrZ3VzQSEqzH_RFkFxV1ekXegIOObzMhS&index=10",
+      "painTypeId": 2,
+      "embed": "swkOeoEcKW0",
+      "img": "https://i.imgur.com/WQAfcBU.jpg"
+    },
+    {
+      "id": 21,
+      "name": "How To Do The Perfect Push Up",
+      "exerciseTypeId": 4,
+      "link": "https://www.youtube.com/watch?v=smwbpccnADo&list=PLrZ3VzQSEqzH_RFkFxV1ekXegIOObzMhS&index=11",
+      "painTypeId": 3,
+      "embed": "smwbpccnADo",
+      "img": "https://i.imgur.com/hYYXZC8.jpg"
+    },
+    {
+      "id": 22,
+      "name": "Low Cable Row",
+      "exerciseTypeId": 4,
+      "link": "https://www.youtube.com/watch?v=AYSD6Z2Jevg&list=PLrZ3VzQSEqzH_RFkFxV1ekXegIOObzMhS&index=12",
+      "painTypeId": 3,
+      "embed": "AYSD6Z2Jevg",
+      "img": "https://i.imgur.com/8ZZAy3y.jpg"
+    },
+    {
+      "id": 23,
+      "name": "Kettlebell Shoulder Press",
+      "exerciseTypeId": 4,
+      "link": "https://www.youtube.com/watch?v=WTmR-Qr32dg&list=PLrZ3VzQSEqzH_RFkFxV1ekXegIOObzMhS&index=13",
+      "painTypeId": 2,
+      "embed": "WTmR-Qr32dg",
+      "img": "https://i.imgur.com/ZdLrbZr.jpg"
+    },
+    {
+      "id": 25,
+      "name": "Standing Cable Face Pull With External Rotation",
+      "exerciseTypeId": 4,
+      "link": "https://www.youtube.com/watch?v=nSiIYndTlO4&list=PLrZ3VzQSEqzH_RFkFxV1ekXegIOObzMhS&index=16",
+      "painTypeId": 2,
+      "embed": "nSiIYndTlO4",
+      "img": "https://i.imgur.com/mF8gScZ.jpg"
+    },
+    {
+      "id": 26,
+      "name": "Floor Press Bench Press",
+      "exerciseTypeId": 4,
+      "link": "https://www.youtube.com/watch?v=PpiqWNY52M0",
+      "painTypeId": 3,
+      "embed": "PpiqWNY52M0",
+      "img": "https://i.imgur.com/HW1hHq5.jpg"
+    }
+  ],
+  "exerciseTypes": [
+    {
+      "id": 1,
+      "type": "Stretching & Mobility"
+    },
+    {
+      "id": 2,
+      "type": "Core"
+    },
+    {
+      "id": 3,
+      "type": "Lower Body"
+    },
+    {
+      "id": 4,
+      "type": "Upper Body"
+    }
+  ],
+  "painTypes": [
+    {
+      "id": 1,
+      "type": "Hip"
+    },
+    {
+      "id": 2,
+      "type": "Shoulder"
+    },
+    {
+      "id": 3,
+      "type": "Back"
+    },
+    {
+      "id": 4,
+      "type": "Leg"
+    },
+    {
+      "id": 5,
+      "type": "Foot & Ankle"
+    }
+  ],
+  "workouts": [
+    {
+      "name": "Core Shredder",
+      "userId": 2,
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Never Skip Leg Day Twice",
+      "userId": 2
+    },
+    {
+      "name": "Stretch Sesh",
+      "userId": 2,
+      "id": 3
+    }
+  ],
+  "workoutVideos": [
+    {
+      "workoutId": 1,
+      "videoId": 16,
+      "id": 1
+    },
+    {
+      "workoutId": 3,
+      "videoId": 2,
+      "id": 2
+    },
+    {
+      "workoutId": 1,
+      "videoId": 12,
+      "id": 3
+    },
+    {
+      "workoutId": 1,
+      "videoId": 14,
+      "id": 5
+    },
+    {
+      "workoutId": 2,
+      "videoId": 8,
+      "id": 6
+    },
+    {
+      "workoutId": 2,
+      "videoId": 5,
+      "id": 7
+    },
+    {
+      "workoutId": 2,
+      "videoId": 6,
+      "id": 9
+    },
+    {
+      "workoutId": 1,
+      "videoId": 15,
+      "id": 10
+    },
+    {
+      "workoutId": 3,
+      "videoId": 11,
+      "id": 11
+    },
+    {
+      "workoutId": 2,
+      "videoId": 2,
+      "id": 12
+    },
+    {
+      "workoutId": 2,
+      "videoId": 1,
+      "id": 13
+    },
+    {
+      "workoutId": 2,
+      "videoId": 9,
+      "id": 14
+    },
+    {
+      "workoutId": 3,
+      "videoId": 18,
+      "id": 16
+    }
+  ],
+  "workoutUserVideos": [],
+  "userVideos": [],
+  "collections": [],
+  "collectionsWorkouts": [],
+  "days": [
+    {
+      "name": "Sunday",
+      "id": 1
+    },
+    {
+      "name": "Monday",
+      "id": 2
+    },
+    {
+      "name": "Tuesday",
+      "id": 3
+    },
+    {
+      "name": "Wednesday",
+      "id": 4
+    },
+    {
+      "name": "Thursday",
+      "id": 5
+    },
+    {
+      "name": "Friday",
+      "id": 6
+    },
+    {
+      "name": "Saturday",
+      "id": 7
+    }
+  ],
+  "planners": [
+    {
+      "id": 1,
+      "dayId": 4,
+      "workoutId": 3
+    },
+    {
+      "dayId": 7,
+      "workoutId": 3,
+      "id": 2
+    },
+    {
+      "id": 3,
+      "dayId": 5,
+      "workoutId": 2
+    },
+    {
+      "dayId": 1,
+      "workoutId": 3,
+      "id": 4
+    },
+    {
+      "dayId": 3,
+      "workoutId": 2,
+      "id": 6
+    },
+    {
+      "id": 7,
+      "dayId": 2,
+      "workoutId": 1
+    },
+    {
+      "id": 8,
+      "dayId": 6,
+      "workoutId": 1
+    }
+  ]
 }
