@@ -308,6 +308,21 @@
       "name": "Stretch Sesh",
       "userId": 2,
       "id": 3
+    },
+    {
+      "name": "Legs",
+      "userId": 6,
+      "id": 4
+    },
+    {
+      "name": "Core",
+      "userId": 6,
+      "id": 5
+    },
+    {
+      "name": "Arms",
+      "userId": 6,
+      "id": 6
     }
   ],
   "workoutVideos": [
@@ -375,6 +390,11 @@
       "workoutId": 3,
       "videoId": 18,
       "id": 16
+    },
+    {
+      "workoutId": 5,
+      "videoId": 2,
+      "id": 17
     }
   ],
   "workoutUserVideos": [],
@@ -446,6 +466,11 @@
       "id": 8,
       "dayId": 6,
       "workoutId": 1
+    },
+    {
+      "dayId": 2,
+      "workoutId": 5,
+      "id": 9
     }
   ]
 }
